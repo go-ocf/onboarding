@@ -14,7 +14,7 @@ dependencies:
   flutter_inappwebview: ^4.0.0+4
   shared_preferences: ^0.5.10
   http: ^0.12.2
-  jwt_decoder: ^1.0.3
+  jwt_decoder: ^2.0.0
   flutter_spinkit: ^4.1.2+1
   flushbar: ^1.10.4
   sentry: ^3.0.1
