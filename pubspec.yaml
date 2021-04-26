@@ -12,7 +12,7 @@ dependencies:
     sdk: flutter
   flutter_slidable: ^0.5.7
   flutter_inappwebview: ^4.0.0+4
-  shared_preferences: ^0.5.10
+  shared_preferences: ^2.0.0
   http: ^0.12.2
   jwt_decoder: ^1.0.3
   flutter_spinkit: ^4.1.2+1
